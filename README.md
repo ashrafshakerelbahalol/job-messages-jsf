@@ -69,6 +69,9 @@ This project is a simple Job Management application built using JavaServer Faces
 * Hibernate JPA
 * Mysql Connector Java
 * JSF API
+* CSS
+* HTML
+
 
 ## Future Improvements
 
