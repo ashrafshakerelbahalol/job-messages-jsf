@@ -50,16 +50,11 @@ This project is a simple Job Management application built using JavaServer Faces
 
     * Replace `root` and `1234` with your MySQL credentials.
 
-4.  **Build the Project:**
 
-    ```bash
-    mvn clean install
-    ```
+4.  **Deploy the Application:**
+    * Deploy the `.war` file (located in the `target` directory) to your application server.
 
-5.  **Deploy the Application:**
-    * Deploy the generated `.war` file (located in the `target` directory) to your application server.
-
-6.  **Access the Application:**
+5.  **Access the Application:**
     * Open your web browser and navigate to `http://localhost:8080/[your-app-context-root]/index.xhtml`.
 
 ## Usage
